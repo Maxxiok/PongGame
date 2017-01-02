@@ -1,0 +1,24 @@
+.pane{
+    
+    -fx-background-color: black;
+    
+}
+
+#btn:hover{
+    
+    -fx-background-color: limegreen;
+    
+}
+
+#exb:hover{
+    
+    -fx-background-color: lightcoral;
+    
+}
+
+#txt{
+    
+    -fx-text-fill: white;
+    
+}
+
